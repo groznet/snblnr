@@ -1,0 +1,107 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/news/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/tags/basic-elements/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/post/2018/basic-html-elements/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/categories/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/tags/css/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/categories/development/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/tags/html/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/tags/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/post/2014/creating-a-new-theme/</loc>
+      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/configured-page-custom-slug/</loc>
+      <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/post/2014/hugo-template-primer/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/tags/development/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/post/2014/getting-started-with-hugo/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/tags/go/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/categories/golang/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/tags/golang/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/tags/hugo/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/tags/templates/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/tags/themes/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://xn--80abcmcozhegcezgbi6d.xn--p1ai/post/2014/migrate-to-hugo-from-jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    </url>
+    </urlset>
